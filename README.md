@@ -1,2 +1,4 @@
-# smartcontract_truffle
-SmartContract with Truffle
+# SmartContract with Truffle
+
+> truffle compile
+> tfuffle migration
