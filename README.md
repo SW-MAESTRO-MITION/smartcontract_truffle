@@ -1,4 +1,8 @@
 # SmartContract with Truffle
 
-> truffle compile
-> tfuffle migration
+Build and Deploy
+
+```
+truffle compile
+tfuffle migration
+```
